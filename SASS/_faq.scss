@@ -5,7 +5,6 @@
     border-right: 10px;
 }
 .we-ar{
-    text-align: justify;
-    padding-bottom: 10px;
-    border: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
 }
