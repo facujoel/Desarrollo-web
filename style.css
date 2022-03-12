@@ -1,0 +1,27 @@
+.header {
+  display: inline;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  background-color: #142DE4 h1;
+  background-color-text-align: center;
+}
+body p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.faq {
+  text-align: center;
+  padding-top: 10px;
+  border-right: 10px;
+}
+
+.we-ar {
+  text-align: justify;
+  padding-bottom: 10px;
+  border: 10px 10px 10px 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
