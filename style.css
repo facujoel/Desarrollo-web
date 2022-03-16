@@ -3,7 +3,16 @@ body {
 }
 body h1 {
   text-align: center;
+  color: #0707F7;
 }
+body h2 {
+  color:#8b07f7;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
+} 
+
 body h5 {
   text-align: center;
 }
@@ -22,9 +31,15 @@ body p {
 }
 
 .we-ar {
-  text-align: justify;
-  padding-bottom: 10px;
-  border: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
