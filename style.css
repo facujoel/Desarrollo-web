@@ -6,12 +6,17 @@ body h1 {
   color: #0707F7;
 }
 body h2 {
+  
   color:#8b07f7;
 }
 
 h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif 
 } 
+
+h4{
+  text-align: center;
+}
 
 body h5 {
   text-align: center;
